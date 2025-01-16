@@ -1,0 +1,8 @@
+{
+    "bin": "400022",
+    "type": "DEBIT",
+    "level": "CONSUMER",
+    "brand": "Visa Classic",
+    "bank": "NAVY FEDERAL CREDIT UNION",
+    "country": "US"
+}
